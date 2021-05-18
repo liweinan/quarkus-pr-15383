@@ -1,5 +1,5 @@
 ## https://github.com/quarkusio/quarkus/issues/15383
-
+## https://quarkus.io/guides/rest-client
 ---
 
 # rest-client-quickstart project

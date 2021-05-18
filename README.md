@@ -1,4 +1,6 @@
-https://github.com/quarkusio/quarkus/issues/15383
+## https://github.com/quarkusio/quarkus/issues/15383
+
+---
 
 # rest-client-quickstart project
 

@@ -1,3 +1,5 @@
+https://github.com/quarkusio/quarkus/issues/15383
+
 # rest-client-quickstart project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.

@@ -1,6 +1,6 @@
 ## https://github.com/quarkusio/quarkus/issues/15383
 ## https://quarkus.io/guides/rest-client
-## https://quarkus.io/guides/rest-client
+## https://github.com/TomasHofman/quarkus-quickstarts/commit/abfffca591f55aa1b82d3ed67c40df70830e6d5c#diff-5694f50f3a89a2ed51c26b47d1265fe89f1df60fdab67ac2f273ef0a8bd37ffe
 ---
 
 # rest-client-quickstart project

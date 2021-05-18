@@ -10,7 +10,7 @@ public class CustomRestClientBuilderListener implements RestClientBuilderListene
 
     @Override
     public void onNewBuilder(RestClientBuilder builder) {
-        builder.property("resteasy.connectionTTL", Arrays.asList(2345L, TimeUnit.MILLISECONDS));
+        builder.property("resteasy.connectionTTL", Arrays.asList(1, TimeUnit.NANOSECONDS));
         builder.property("resteasy.maxPooledPerRoute", 1);
     }
 }
